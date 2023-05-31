@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Lab3.2</string>
     <string name="am_textViewText">Enter Your Name</string>
-    <string name="am_editViewText"> </string>
+    <string name="am_editViewText"> Type Here</string>
     <string name="am_nextButtonText">Next</string>
+    <string name="na_textViewText">Welcome!</string>
+    <string name="na_dontBtnText">DON\'T CALL ME THAT</string>
+    <string name="na_tyBtnText">THANK YOU</string>
 </resources>
