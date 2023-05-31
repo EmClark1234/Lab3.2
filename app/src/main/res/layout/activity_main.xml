@@ -11,7 +11,7 @@
         android:id="@+id/am_textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="@string/am_textViewText" />
 
     <EditText
         android:id="@+id/am_editText"
@@ -19,11 +19,11 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="Name" />
+        android:text="@string/am_editViewText" />
 
     <Button
         android:id="@+id/am_nextButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="@string/am_nextButtonText" />
 </LinearLayout>
